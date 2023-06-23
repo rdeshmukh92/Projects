@@ -11,8 +11,8 @@ Welcome to my Projects. Please refer below links for my projects:
 
 
 # PowerBI
-1. Created Covid-19 analysis dashboard. 
-   Added its Screenshot. 
+1. Created Covid-19 analysis dashboard. <br>
+   Added its Screenshot. <br>
    Published link :
    https://app.powerbi.com/links/VYHQeVmZaz?ctid=759a48bb-e3f3-496c-a9b0-df256e635723&pbi_source=linkShare
 
