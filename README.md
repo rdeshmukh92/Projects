@@ -24,6 +24,10 @@ Welcome to my Projects. Please refer below links for my projects:
    Added its screenshots.<br>
    Published link: https://app.powerbi.com/links/3T5uUq1_at?ctid=759a48bb-e3f3-496c-a9b0-df256e635723&pbi_source=linkShare   
 
+4. Created customer retention report for HR and demographic report for customers. <br>
+    Added its screenshots. <br>
+    Published link: https://app.powerbi.com/links/JaJmc0PSL9?ctid=759a48bb-e3f3-496c-a9b0-df256e635723&pbi_source=linkShare&bookmarkGuid=329be149-4821-4a01-9cba-4fa139f70bd2 
+
 
 # Tableau
 Here i am showcasing visualization of my work.
