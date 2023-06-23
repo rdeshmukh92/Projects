@@ -17,4 +17,5 @@ Here i am showcasing reports for Call-Center-KPI, Customer Retention, Diversity 
 Here i am showcasing visualization of my work.
 
 # SQL
-1. Select, filter, sort and group functions (min, max, count) Queries for maven movies database.  
+Select, filter, sort and group functions (min, max, count) Queries for maven movies database.  
+Select queries with the help of join and union.
