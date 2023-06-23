@@ -11,7 +11,12 @@ Welcome to my Projects. Please refer below links for my projects:
 
 
 # PowerBI
-Here i am showcasing reports for Call-Center-KPI, Customer Retention, Diversity & Inclusion and Population data model. 
+1. Created Covid-19 analysis dashboard. 
+   Added its Screenshot. 
+   Published link :
+   https://app.powerbi.com/links/VYHQeVmZaz?ctid=759a48bb-e3f3-496c-a9b0-df256e635723&pbi_source=linkShare
+
+
 
 # Tableau
 Here i am showcasing visualization of my work.
