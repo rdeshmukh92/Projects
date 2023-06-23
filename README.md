@@ -29,5 +29,5 @@ Welcome to my Projects. Please refer below links for my projects:
 Here i am showcasing visualization of my work.
 
 # SQL
-Select, filter, sort and group functions (min, max, count) Queries for maven movies database.  
-Select queries with the help of join and union.
+1. Select, filter, sort and group functions (min, max, count) Queries for maven movies database. <br> 
+2. Select queries with the help of join and union.
