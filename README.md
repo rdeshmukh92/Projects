@@ -28,6 +28,9 @@ Welcome to my Projects. Please refer below links for my projects:
     Added its screenshots. <br>
     Published link: https://app.powerbi.com/links/JaJmc0PSL9?ctid=759a48bb-e3f3-496c-a9b0-df256e635723&pbi_source=linkShare&bookmarkGuid=329be149-4821-4a01-9cba-4fa139f70bd2 
 
+5. Designed report for Call center agent's KPI. <br>
+    Added its screenshot. <br>
+    Published link: https://app.powerbi.com/links/MjQOjVB94U?ctid=759a48bb-e3f3-496c-a9b0-df256e635723&pbi_source=linkShare
 
 # Tableau
 Here i am showcasing visualization of my work.
