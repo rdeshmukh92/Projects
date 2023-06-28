@@ -38,6 +38,15 @@ Welcome to my Projects. Please refer below links for my projects:
    Published link :
    https://public.tableau.com/views/tableau_Covid-19_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+2. Create SuperStore workbooks, dashboard and stories <br>
+   Added its screenshot. <br>
+   Published link: 
+   https://public.tableau.com/shared/SJWSCKDBH?:display_count=n&:origin=viz_share_link
+   
+   https://public.tableau.com/views/Tableau_SuperStore_16879930543350/MyStory?:language=en-US&:display_count=n&:origin=viz_share_link
+   
+   https://public.tableau.com/views/tableau_superstore_dashboard2/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 # SQL
 1. Select, filter, sort and group functions (min, max, count) Queries for maven movies database. <br> 
 2. Select queries with the help of join and union.
