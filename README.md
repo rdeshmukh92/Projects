@@ -33,7 +33,10 @@ Welcome to my Projects. Please refer below links for my projects:
     Published link: https://app.powerbi.com/links/MjQOjVB94U?ctid=759a48bb-e3f3-496c-a9b0-df256e635723&pbi_source=linkShare
 
 # Tableau
-Here i am showcasing visualization of my work.
+1. Created Covid-19 analysis dashboard. <br>
+   Added its Screenshot. <br>
+   Published link :
+   https://public.tableau.com/views/tableau_Covid-19_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 # SQL
 1. Select, filter, sort and group functions (min, max, count) Queries for maven movies database. <br> 
