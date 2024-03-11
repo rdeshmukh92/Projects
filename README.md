@@ -7,8 +7,7 @@ Welcome to my Projects. Please refer below links for my projects:
 * [PowerBI](#PowerBI)
 * [Tableau](#Tableau)
 * [SQL](#SQL)
-* [Data Lake Environment](#DataLake Environment)
-
+* #<a name="Data Lake"></a>(#DataLake)
 
 
 # PowerBI
