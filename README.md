@@ -7,7 +7,7 @@ Welcome to my Projects. Please refer below links for my projects:
 * [PowerBI](#PowerBI)
 * [Tableau](#Tableau)
 * [SQL](#SQL)
-* #<a name="Data Lake"></a>(#DataLake)
+* [Data Lake](#Data_Lake)
 
 
 # PowerBI
@@ -51,7 +51,7 @@ Welcome to my Projects. Please refer below links for my projects:
 1. Select, filter, sort and group functions (min, max, count) Queries for maven movies database. <br> 
 2. Select queries with the help of join and union.
 
-# Data Lake
+# Data_Lake
 1. Created Data lake environment with Python programming designed to handle datasets in a multi-layered architecture. The primary goal is to ingest raw data, perform specific operations on it, and store the processed data in refined and curated layers. The script supports data in both CSV and JSON formats. 
 
 2. Components:
