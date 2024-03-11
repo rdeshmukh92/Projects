@@ -7,6 +7,7 @@ Welcome to my Projects. Please refer below links for my projects:
 * [PowerBI](#PowerBI)
 * [Tableau](#Tableau)
 * [SQL](#SQL)
+* [Data Lake Environment](#DataLake Environment)
 
 
 
@@ -50,3 +51,17 @@ Welcome to my Projects. Please refer below links for my projects:
 # SQL
 1. Select, filter, sort and group functions (min, max, count) Queries for maven movies database. <br> 
 2. Select queries with the help of join and union.
+
+# Data Lake
+1. Created Data lake environment with Python programming designed to handle datasets in a multi-layered architecture. The primary goal is to ingest raw data, perform specific operations on it, and store the processed data in refined and curated layers. The script supports data in both CSV and JSON formats. 
+
+2. Components:
+   Ingest Data: The ingest_data function copies data from a source path to a destination path, creating a structured data lake.
+   Read Data: The read_data function reads data from either CSV or JSON files. It throws a warning for unsupported file formats, allowing the script to gracefully handle such cases.
+   Perform Data Operations: The perform_data_operations function applies layer-specific transformations to the dataset. In this example, it adds a 'Processed' column in the refined layer and reverses the 'FirstName' column in the curated layer.
+   Main Pipeline: The main function orchestrates the entire pipeline. It sets up the project structure, including raw, refined, and curated layers. It then ingests sample datasets, processes them, and stores the results in their respective layers.
+
+3. Project Structure:
+   Raw Layer: Initial, unprocessed datasets reside in this layer.
+   Refined Layer: Processed data with added features or modifications.
+   Curated Layer: Further refined data with additional transformations.
